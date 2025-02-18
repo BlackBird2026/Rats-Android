@@ -4,10 +4,7 @@
 Collection Rats Android
 
 
-
-
 # Collection of 44 Android Rats, the best and most efficient programs for android penetration testing.
-
 
 
 * 888 Rat V 1.2.4
