@@ -3,9 +3,6 @@
 
 
 
-
-
-
 Collection Rats Android
 
 
