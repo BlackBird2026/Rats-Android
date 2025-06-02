@@ -1,18 +1,1 @@
-{
-    "autosave": true,
-    "cpu": true,
-    "opencl": false,
-    "cuda": false,
-    "pools": [
-        {
-            "url": "solo-zeph.2miners.com:4444",
-            "user": "ZEPHYR3Npm29FGTRfuhdLBMfGYF7xmfMA4sE9sMFN8qHSht6i2RHP5SRkWbwSaPBNqHJQ9BUgSE9DeX7FK8zrc1a4Kzpk6pWrHh3Z",
-            "pass": "x",
-            "rig-id": "Teste1",
-            "nicehash": false,
-            "keepalive": true,
-            "tls": false
-        }
-    ]
-}
-}
+1
